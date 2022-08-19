@@ -20,7 +20,7 @@ else:
         flash_dict_list.remove(card_dict)
 
 current_card_dict = {}
-c = 0
+
 
 def know_card():
     flash_dict_list.remove(current_card_dict)
